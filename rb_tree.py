@@ -1,5 +1,5 @@
 """
-A classic (not left-leaning) Red-Black Tree implementation, supporting addition and deletion.
+Red-Black Tree implementation, supporting addition and deletion.
 """
 
 # The possible Node colors
